@@ -5,7 +5,7 @@ import cv2 as cv
 import sys
 import math
 
-min = 9
+min = 12
 vertical_transform = 0
 
 def lineup(im1, im2):
